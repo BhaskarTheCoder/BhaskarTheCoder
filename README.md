@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uday Bhaskar Valapadasu</h1>
 <h3 align="center">A full-stack web developer 🚀 enthusiastically crafts fantastic websites and apps! 🌐✨</h3>
-<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
+<img align="right" alt="Coding" width="550" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarthecoder" /> </p>
 
 - 🌱 I’m currently learning **React, MERN**

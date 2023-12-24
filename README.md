@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday Bhaskar Valapadasu</h1>
 <h3 align="center">A full-stack web developer 🚀 enthusiastically crafts fantastic websites and apps! 🌐✨</h3>
-
+<img algin="center" src="[https://cdn.vectorstock.com/i/1000x1000/91/72/programming-courses-web-design-concept-with-people-vector-38019172.webp](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarthecoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaskarthecoder" alt="bhaskarthecoder" /></a> </p>
 
 - 🌱 I’m currently learning **React, MERN**
 
